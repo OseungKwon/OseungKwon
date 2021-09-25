@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://velog.io/@wkahd">
-    <img 
-        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Vector Logo Zone)&link=https://velog.io/@wkahd"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OseungKwon&theme=white)](https://github.com/OseungKwon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OseungKwon&layout=compact&theme=white&langs_count=4)](https://github.com/OseungKwon/github-readme-stats)
