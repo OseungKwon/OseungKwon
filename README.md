@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://velog.io/@wkahd01" target="_blank"><img src="https://img.shields.io/badge/#20c997?style=for-the-badge/></a>
+
 <!--
 **OseungKwon/OseungKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
