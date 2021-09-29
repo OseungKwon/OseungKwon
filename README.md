@@ -1,6 +1,6 @@
 # OseungKwon
 
-### Link
+## My Blog
 <p>
   <a href="https://velog.io/@wkahd01">
   <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
@@ -8,7 +8,7 @@
 <p/>
 <hr/>
 
-### Skill
+## Skill
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"/>
